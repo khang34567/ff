@@ -122,8 +122,7 @@ class MainActivity : AppCompatActivity() {
             }
 
             tvConnectionStatus.text =
-                "Nhật ký: Đang chạy ForegroundService và kết nối tới $ip:8888...
-Bạn có thể ẩn ứng dụng và mở trò chơi."
+                "Nhật ký: Đang chạy ForegroundService và kết nối tới $ip:8888... Bạn có thể ẩn ứng dụng và mở trò chơi."
             btnConnect.text = "Ngắt kết nối PC"
         }
     }
