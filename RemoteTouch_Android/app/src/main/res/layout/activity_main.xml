@@ -23,7 +23,7 @@
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Samsung Galaxy A02s <-> Windows PC (TCP Port 8888)"
+            android:text="Samsung Galaxy A02s - Windows PC (TCP Port 8888)"
             android:textColor="#94A3B8"
             android:textSize="13sp"
             android:gravity="center"
