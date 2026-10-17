@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RemoteTouch Android</string>
+    <string name="accessibility_service_description">Cho phép RemoteTouch thực hiện thao tác chạm (TAP) và vuốt kéo tâm (SWIPE) từ máy tính qua mạng Wi-Fi nội bộ.</string>
+</resources>
